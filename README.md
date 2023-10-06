@@ -2,15 +2,15 @@
 <h3 align="center">Competitive Programmer & MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
-- 🔭 I’m currently working on [HiChat](https://github.com/emranCoder/HiChat)
+🔭 I’m currently working on [HiChat](https://github.com/emranCoder/HiChat)
 
-- 🌱 I’m currently learning **ReactNative, Astro Island, JAVA OOP**
+🌱 I’m currently learning **ReactNative, Astro Island, JAVA OOP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emranCoder?tab=repositories](https://github.com/emranCoder?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/emranCoder?tab=repositories](https://github.com/emranCoder?tab=repositories)
 
-- 📫 How to reach me **emrancoder.mu@gmail.com**
+📫 How to reach me **emrancoder.mu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zYfydN3ZKDDeaeCBKhosXpuo5VMVqnAd/view?usp=sharing](https://drive.google.com/file/d/1zYfydN3ZKDDeaeCBKhosXpuo5VMVqnAd/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1zYfydN3ZKDDeaeCBKhosXpuo5VMVqnAd/view?usp=sharing](https://drive.google.com/file/d/1zYfydN3ZKDDeaeCBKhosXpuo5VMVqnAd/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny 😁**
 <br>
