@@ -12,7 +12,7 @@
 
 📄 Know about my experiences [https://drive.google.com/file/d/1zYfydN3ZKDDeaeCBKhosXpuo5VMVqnAd/view?usp=sharing](https://drive.google.com/file/d/1zYfydN3ZKDDeaeCBKhosXpuo5VMVqnAd/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny 😁**
+⚡ Fun fact **I am funny 😁**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
