@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Emran Alam</h1>
-<h3 align="center">Competitive Programming & MERN Stack Developer</h3>
+<h3 align="center">Competitive Programmer & MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
 🔭 I’m currently working on [HiChat](https://github.com/emranCoder/HiChat)
