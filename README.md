@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [OrderNow]([https://github.com/emranCoder/OrderNow])
 
-✅ A real life solved problem [CoverMonkey] ([https://github.com/emranCoder/cover_page_generator])
+✅ A real life solved problem [CoverMonkey]([https://github.com/emranCoder/cover_page_generator])
 
 🌱 I’m currently learning **ReactNative, Astro Island, JAVA OOP**
 
