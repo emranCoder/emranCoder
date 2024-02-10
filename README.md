@@ -2,7 +2,9 @@
 <h3 align="center">Competitive Programmer & MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
-🔭 I’m currently working on [HiChat](https://github.com/emranCoder/HiChat)
+🔭 I’m currently working on [OrderNow]([https://github.com/emranCoder/OrderNow])
+
+✅ A real life solved problem [CoverMonkey] ([https://github.com/emranCoder/cover_page_generator])
 
 🌱 I’m currently learning **ReactNative, Astro Island, JAVA OOP**
 
